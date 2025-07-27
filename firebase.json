@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "MotoSpeca",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

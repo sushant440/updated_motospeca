@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "mid-proposal-motospeca",
+    ".": "mid-proposal-motospeca"
+  },
+  "targets": {},
+  "etags": {}
+}
